@@ -1,7 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=tbdp138&label=Profile%20views&color=0e75b6&style=flat)
-<p align="center">
-  <![](https://komarev.com/ghpvc/?username=tbdp138&label=Profile%20views&color=0e75b6&style=flat)>
-</p>
 
 <h1 align="center">👋 Hi, I'm Emma (Phuong) Tran</h1>
 <h3 align="center">Data Analyst | Business Intelligence | Digital Analytics</h3>
