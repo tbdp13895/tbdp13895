@@ -51,6 +51,12 @@ Power BI (DAX, App Deployment) • SQL • Python • GA4 • Google Ads • Met
 
 ---
 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Emma's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Emma's GitHub streak"/>
+</p>
+---
 ### 💬 Let’s Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/tbdp138/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
