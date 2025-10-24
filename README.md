@@ -1,19 +1,19 @@
 <h1 align="center">👋 Hi, I'm Emma (Phuong) Tran</h1>
-<h3 align="center">Data Analyst | Business Intelligence | Product Insights</h3>
+<h3 align="center">Data Analyst | Business Intelligence | Digital Analytics</h3>
 
 <p align="center">
-📍 Coquitlam, BC | 🎓 Data Analytics for Business @ St. Clair College | ✉️ <a href="mailto:tbdp13895@gmail.com">tbdp13895@gmail.com</a>  
+📍 Coquitlam, BC | 🎓 Data Analytics for Business @ St. Clair College  
+✉️ <a href="mailto:tbdp13895@gmail.com">tbdp13895@gmail.com</a> | 🌐 <a href="https://www.linkedin.com/in/tbdp138/">LinkedIn</a>
 </p>
 
 ---
 
 ### 🧠 About Me
-I’m a **data-driven analyst** passionate about turning data into stories that drive decisions.  
-My experience blends **marketing analytics** and **business intelligence**, building Power BI dashboards and predictive models that optimize performance and uncover insights.  
+I’m a **data-driven storyteller** passionate about connecting analytics with business outcomes.  
+With experience in **digital marketing, BI, and web analytics**, I bridge creative strategy with technical execution.  
 
-I enjoy creating **clean, interactive visualizations**, automating **ETL pipelines**, and applying **Python forecasting** and **A/B testing** to real business challenges.
-
-💡 *Curious mind, structured thinking, insight-driven results.*
+I specialize in **Power BI, SQL, Python, GA4, and SEO analytics**, transforming data into actionable insights that drive performance and growth.  
+Whether building dashboards, analyzing campaigns, or optimizing content, my goal is always the same — **make data easy to understand and impossible to ignore.**
 
 ---
 
@@ -22,14 +22,16 @@ I enjoy creating **clean, interactive visualizations**, automating **ETL pipelin
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="GA4"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO"/>
 </p>
 
-**Key Skills:**  
-Power BI (DAX, Data Modeling, Service Deployment) • SQL • Python (pandas, scikit-learn, Prophet)  
-Forecasting • Regression • Experimental Design & A/B Testing • ETL Automation • Data Storytelling  
+**Core Skills:**  
+Power BI (DAX, App Deployment) • SQL • Python • GA4 • Google Ads • Meta Ads • Google Search Console • SEO Analysis • WordPress (Web Design & Analytics) • Canva (Creative Visualization)
 
 ---
 
@@ -38,12 +40,12 @@ Forecasting • Regression • Experimental Design & A/B Testing • ETL Automat
 | Project | Description | Tools |
 |----------|--------------|-------|
 | **🏷 Marketing Analytics – Nike Sales Performance** | Analyzed regional sales and pricing to identify demand drivers and optimize strategy for a global retail brand. Improved campaign ROI by **8%**. | Power BI, Python, Excel |
+| **💡 Digital Marketing ROI Dashboard** | Integrated GA4, Google Ads, and Meta Ads data into Power BI, enabling multi-channel performance tracking that cut reporting time by **25%**. | Power BI, GA4, Google Ads, Meta Ads |
 | **🏥 Healthcare Analytics – Forecasting Surgical Wait Times** | Forecasted hospital wait times using Prophet, improving capacity planning accuracy by **15%**. | Python, Power BI |
-| **🌐 Full-Stack Analytics App** | Built a Flask + SQLite web app integrating SQL pipelines and Power BI dashboards for real-time metrics. | Python, Flask, SQL, Power BI |
-| **📈 Retail Campaign ROI Dashboard** | Designed a Power BI dashboard for multi-channel campaign tracking, reducing reporting time by **25%**. | Power BI, DAX, SQL |
-| **💰 Financial Forecasting Model** | Built a regression-based forecasting model to predict revenue and expenses for product lines. | Python (scikit-learn), Excel |
-| **🧠 A/B Testing for Product Launches** | Designed and analyzed controlled experiments for product and pricing optimization. | Python, Excel |
-| **📢 Digital Marketing Analytics – Creator VN** | Led cross-functional data analytics for marketing campaigns, integrating data from 5 sources. Improved reporting accuracy by **30%**. | SQL, Power BI |
+| **🌐 Full-Stack Analytics Web App** | Built a Flask + SQLite web app integrating SQL pipelines and Power BI dashboards for real-time business metrics. | Python, Flask, SQL, Power BI |
+| **📈 SEO & Web Analytics Dashboard** | Combined GA4, Search Console, and WordPress data to visualize traffic trends and keyword impact, increasing organic reach by **20%**. | GA4, Google Search Console, Power BI |
+| **🧠 A/B Testing for Product Launches** | Designed and analyzed experiments to optimize product features and pricing. | Python, Excel |
+| **🎨 Branding & Content Insights** | Used Canva, Meta Ads, and Power BI to measure content engagement and improve campaign conversion rates. | Canva, Power BI, Meta Ads |
 
 ---
 
@@ -53,4 +55,4 @@ Forecasting • Regression • Experimental Design & A/B Testing • ETL Automat
   <a href="mailto:tbdp13895@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-✨ *“Turning data into decisions, and insights into impact.”*
+✨ *“Blending analytics and creativity to turn data into stories that drive results.”*
