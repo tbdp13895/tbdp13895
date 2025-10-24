@@ -34,11 +34,16 @@ Forecasting • Regression • Experimental Design & A/B Testing • ETL Automat
 ---
 
 ### 📊 Featured Projects
+
 | Project | Description | Tools |
 |----------|--------------|-------|
-| **🏷 Marketing Analytics – Nike Sales Performance** | Analyzed regional sales to identify demand drivers and optimized pricing strategy, improving ROI by **8%**. | Power BI, Python, Excel |
-| **🏥 Healthcare Analytics – Forecasting Surgical Wait Times** | Forecasted hospital wait times to enhance capacity and resource planning, improving planning accuracy by **15%**. | Python (Prophet), Power BI |
-| **🌐 Data Web App – Full Stack Analytics Solution** | Developed an end-to-end analytics app integrating SQL pipelines, Flask, and Power BI dashboards. | Python, SQLite, Flask |
+| **🏷 Marketing Analytics – Nike Sales Performance** | Analyzed regional sales and pricing to identify demand drivers and optimize strategy for a global retail brand. Improved campaign ROI by **8%**. | Power BI, Python, Excel |
+| **🏥 Healthcare Analytics – Forecasting Surgical Wait Times** | Forecasted hospital wait times using Prophet, improving capacity planning accuracy by **15%**. | Python, Power BI |
+| **🌐 Full-Stack Analytics App** | Built a Flask + SQLite web app integrating SQL pipelines and Power BI dashboards for real-time metrics. | Python, Flask, SQL, Power BI |
+| **📈 Retail Campaign ROI Dashboard** | Designed a Power BI dashboard for multi-channel campaign tracking, reducing reporting time by **25%**. | Power BI, DAX, SQL |
+| **💰 Financial Forecasting Model** | Built a regression-based forecasting model to predict revenue and expenses for product lines. | Python (scikit-learn), Excel |
+| **🧠 A/B Testing for Product Launches** | Designed and analyzed controlled experiments for product and pricing optimization. | Python, Excel |
+| **📢 Digital Marketing Analytics – Creator VN** | Led cross-functional data analytics for marketing campaigns, integrating data from 5 sources. Improved reporting accuracy by **30%**. | SQL, Power BI |
 
 ---
 
