@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tbdp138/tbdp138/assets/assets/Gemini_Generated_Image_roq6xcroq6xcroq6.gif" 
-       alt="Hello from Emma Tran" width="600"/>
+  <img src="hello.gif" alt="Hello from Emma Tran" width="600"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Emma (Phuong) Tran</h1>
