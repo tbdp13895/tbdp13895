@@ -47,6 +47,7 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
 
   <!-- Web & App -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
   <!-- Tools & IDEs -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
