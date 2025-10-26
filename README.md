@@ -52,6 +52,7 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta%20Business-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
 
   <!-- Tools & IDEs -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -66,7 +67,6 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
 ---
-
 ### 📊 Featured Projects
 
 | Project | Description | Tools |
