@@ -24,7 +24,6 @@ I specialize in **Power BI, SQL, Python, GA4, and SEO analytics**, transforming 
 Whether building dashboards, analyzing campaigns, or optimizing content, my goal is always the same — **make data easy to understand and impossible to ignore.**
 
 ---
-
 ### ⚙️ Tech Stack & Tools
 <p align="left">
   <!-- Visualization -->
@@ -49,6 +48,11 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
+  <!-- Digital Marketing & SEO -->
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
   <!-- Tools & IDEs -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -62,6 +66,7 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
 ---
+
 ### 📊 Featured Projects
 
 | Project | Description | Tools |
