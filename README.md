@@ -83,7 +83,7 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
 ---
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tbdp13895&show_icons=true&theme=tokyonight" alt="Emma's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tbdp13895&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Emma's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=tbdp13895&theme=tokyonight" alt="Emma's GitHub streak" />
 </p>
 
