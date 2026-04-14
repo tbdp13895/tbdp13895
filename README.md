@@ -77,7 +77,7 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
 | 🏷️ **[Marketing Analytics – Nike Sales Performance](https://github.com/tbdp13895/nike-sales-forecasting)** | Analyzed regional sales and pricing to identify demand drivers and optimize strategy, improving campaign ROI by 8%. | Power BI, Python, Excel |
 | 💡 **Digital Marketing ROI Dashboard** | Integrated GA4 and ad platform data to track multi-channel performance, reducing reporting time by 25%. | Power BI, GA4, Google Ads, Meta Ads |
 | 🏥 **Healthcare Analytics – Surgical Wait Time Forecasting** | Forecasted hospital wait times using time-series modeling, improving planning accuracy by 15%. | Python, Power BI |
-| 🌐 **Full-Stack Analytics Web App** | Built a Flask + SQL-based web app integrating analytics pipelines and dashboards for real-time business monitoring. | Python, Flask, SQL, Power BI |
+| 🌐 **[Full-Stack Analytics Web App](https://github.com/tbdp13895/project_group__6)** | Built a Flask + SQL-based web app integrating analytics pipelines and dashboards for real-time business monitoring. | Python, Flask, SQL, Power BI |
 | 🔍 **SEO & Web Analytics Dashboard** | Combined GA4 and Search Console data to analyze traffic and keyword performance, increasing organic reach by 20%. | GA4, Google Search Console, Power BI |
 | 🧪 **A/B Testing for Product Launches** | Designed and analyzed experiments to evaluate feature and pricing impact on user behavior. | Python, Excel |
 | 🎨 **Branding & Content Insights** | Analyzed content engagement and campaign performance to improve conversion rates. | Canva, Power BI, Meta Ads |
