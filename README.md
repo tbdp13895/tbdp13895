@@ -67,18 +67,20 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 </p>
 ---
-
-### 📊 Featured Projects
+## 📊 Featured Projects
 
 | Project | Description | Tools |
-|----------|--------------|-------|
-| **🏷 Marketing Analytics – Nike Sales Performance** | Analyzed regional sales and pricing to identify demand drivers and optimize strategy for a global retail brand. Improved campaign ROI by **8%**. | Power BI, Python, Excel |
-| **💡 Digital Marketing ROI Dashboard** | Integrated GA4, Google Ads, and Meta Ads data into Power BI, enabling multi-channel performance tracking that cut reporting time by **25%**. | Power BI, GA4, Google Ads, Meta Ads |
-| **🏥 Healthcare Analytics – Forecasting Surgical Wait Times** | Forecasted hospital wait times using Prophet, improving capacity planning accuracy by **15%**. | Python, Power BI |
-| **🌐 Full-Stack Analytics Web App** | Built a Flask + SQLite web app integrating SQL pipelines and Power BI dashboards for real-time business metrics. | Python, Flask, SQL, Power BI |
-| **📈 SEO & Web Analytics Dashboard** | Combined GA4, Search Console, and WordPress data to visualize traffic trends and keyword impact, increasing organic reach by **20%**. | GA4, Google Search Console, Power BI |
-| **🧠 A/B Testing for Product Launches** | Designed and analyzed experiments to optimize product features and pricing. | Python, Excel |
-| **🎨 Branding & Content Insights** | Used Canva, Meta Ads, and Power BI to measure content engagement and improve campaign conversion rates. | Canva, Power BI, Meta Ads |
+|--------|------------|------|
+| 🍽️ **[Restaurant Expansion Strategy Using Yelp Data](https://github.com/tbdp13895/yelp-analysis)** | Built a data-driven model using ~7M Yelp reviews to identify optimal expansion markets. Developed a multi-stage opportunity score balancing demand, competition, and customer sentiment, revealing that high demand alone does not indicate strong opportunity. Delivered a Power BI dashboard for strategic decision-making. | BigQuery (SQL), Python (Pandas, NumPy, Scikit-learn, Sentiment Analysis), Power BI |
+| 🛒 **[GA4 Ecommerce Funnel Analysis](https://github.com/tbdp13895/ga4-ecommerce-funnel)** | Built a session-level ecommerce funnel dataset from GA4 BigQuery data, identifying key drop-off points across the purchase journey. Performed revenue decomposition (Sessions × Conversion Rate × AOV) to uncover performance drivers and developed a Power BI dashboard for funnel and revenue analysis. | BigQuery, SQL, Python (Pandas), Power BI |
+| 📈 **[Retail Sales Forecasting & Analytics Dashboard](https://github.com/tbdp13895/walmart-sales-forecasting)** | Developed a forecasting pipeline on 420K+ Walmart sales records, improving prediction accuracy by ~30% using XGBoost. Applied SHAP to interpret key drivers and built a Power BI dashboard to analyze store performance, promotions, and demand trends. | Python (XGBoost, LightGBM, Scikit-learn, SHAP), SQL, Power BI |
+| 🏷️ **[Marketing Analytics – Nike Sales Performance](https://github.com/tbdp13895/nike-sales-forecasting)** | Analyzed regional sales and pricing to identify demand drivers and optimize strategy, improving campaign ROI by 8%. | Power BI, Python, Excel |
+| 💡 **Digital Marketing ROI Dashboard** | Integrated GA4 and ad platform data to track multi-channel performance, reducing reporting time by 25%. | Power BI, GA4, Google Ads, Meta Ads |
+| 🏥 **Healthcare Analytics – Surgical Wait Time Forecasting** | Forecasted hospital wait times using time-series modeling, improving planning accuracy by 15%. | Python, Power BI |
+| 🌐 **Full-Stack Analytics Web App** | Built a Flask + SQL-based web app integrating analytics pipelines and dashboards for real-time business monitoring. | Python, Flask, SQL, Power BI |
+| 🔍 **SEO & Web Analytics Dashboard** | Combined GA4 and Search Console data to analyze traffic and keyword performance, increasing organic reach by 20%. | GA4, Google Search Console, Power BI |
+| 🧪 **A/B Testing for Product Launches** | Designed and analyzed experiments to evaluate feature and pricing impact on user behavior. | Python, Excel |
+| 🎨 **Branding & Content Insights** | Analyzed content engagement and campaign performance to improve conversion rates. | Canva, Power BI, Meta Ads |
 
 ---
 ### 📈 GitHub Stats
