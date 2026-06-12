@@ -70,6 +70,7 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Business-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Content%20Creation-FF6F00?style=for-the-badge"/>
 </p>
 ---
 
@@ -77,6 +78,7 @@ Whether building dashboards, analyzing campaigns, or optimizing content, my goal
 
 | Project | Description | Tools |
 |--------|------------|------|
+
 | 🍽️ **[Restaurant Expansion Strategy Using Yelp Data](https://github.com/tbdp13895/yelp-analysis)** | Built a data-driven model using ~7M Yelp reviews to identify optimal expansion markets. Developed a multi-stage opportunity score balancing demand, competition, and customer sentiment, revealing that high demand alone does not indicate strong opportunity. Delivered a Power BI dashboard for strategic decision-making. | BigQuery (SQL), Python (Pandas, NumPy, Scikit-learn, Sentiment Analysis), Power BI |
 | 🛒 **[GA4 Ecommerce Funnel Analysis](https://github.com/tbdp13895/ga4-ecommerce-funnel)** | Built a session-level ecommerce funnel dataset from GA4 BigQuery data, identifying key drop-off points across the purchase journey. Performed revenue decomposition (Sessions × Conversion Rate × AOV) to uncover performance drivers and developed a Power BI dashboard for funnel and revenue analysis. | BigQuery, SQL, Python (Pandas), Power BI |
 | 📈 **[Retail Sales Forecasting & Analytics Dashboard](https://github.com/tbdp13895/walmart-sales-forecasting)** | Developed a forecasting pipeline on 420K+ Walmart sales records, improving prediction accuracy by ~30% using XGBoost. Applied SHAP to interpret key drivers and built a Power BI dashboard to analyze store performance, promotions, and demand trends. | Python (XGBoost, LightGBM, Scikit-learn, SHAP), SQL, Power BI |
